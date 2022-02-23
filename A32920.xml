@@ -1,0 +1,148 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer to a late treasonable pamphlet entituled Treason in Spain, &amp;c. for which pamphlet Edward Fitz-Harris lies condemned</title>
+            <author>A. C.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A32920</idno>
+            <idno type="STC">Wing C4</idno>
+            <idno type="STC">ESTC R5625</idno>
+            <idno type="EEBO-CITATION">13688600</idno>
+            <idno type="OCLC">ocm 13688600</idno>
+            <idno type="VID">101377</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A32920)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101377)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 840:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer to a late treasonable pamphlet entituled Treason in Spain, &amp;c. for which pamphlet Edward Fitz-Harris lies condemned</title>
+                  <author>A. C.</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by N.T. ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed at end: A.C.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fitzharris, Edward, 1648?-1681. --  Treason in Spain.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:101377:1" rendition="simple:additions"/>
+            <head>AN ANSWER To a late Treaſonable Pamphlet', ENTITULED, <hi>Treaſon in Grain,</hi> &amp;c. For which Pamphlet <hi>Edward Fitz-Harris</hi> lies Condemned.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Received yours, wherein you deſire to know my Sentiments about that Horrible Infamous <hi>Libel</hi> compoſed by <hi>Fitz-Harris.</hi> The thing it ſelf contains nothing but a maſs of <hi>Trayterous Expreſſions, Horrid Invectives</hi> and <hi>Lying Detractions</hi> to blaſt His Sacred Majeſty; inſomuch that the repetition of thoſe <hi>Villanies</hi> within it are enough to infect the ears of any <hi>true Loyal hearted Subject;</hi> And ſhould I handle that <hi>Treaſon<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us Paper</hi> according to its deſert, my Letter would have much exceeded the limits I deſign: But I ſuppoſe you may eaſily gueſs at the <hi>Rogn<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ry</hi> of the <hi>Piece,</hi> by the perſons concern'd in it. Can any man, without <hi>Horrour</hi> and <hi>Amazement,</hi> ſee His Majeſty calumniated at that rate? Was there ever King more <hi>merciful</hi> and <hi>just</hi> than ours? Was ever Prince more <hi>injured</hi> than ours? His Royal Father <hi>inhumanely Murthered,</hi> and Himſelf (after infinite hazards of His Sacred Perſon) <hi>Exiled from His Kingdoms:</hi> Did ever Prince ſhew greater <hi>Clemency</hi> at his. <hi>Return</hi> than he did? With what <hi>Candour</hi> and <hi>Integrity</hi> did he <hi>par<g ref="char:EOLhyphen"/>don His greateſt Enemies</hi> and <hi>known Oppoſers,</hi> even to the depriving <hi>Ju<g ref="char:EOLhyphen"/>ſtice</hi> of her due Tribute, and <hi>hazard of his future Tranquility?</hi> With what <hi>invincible Patience</hi> has he born thoſe unworthy detractions which have of late been thrown upon him? Can he not, with <hi>Samuel,</hi> ſay, <hi>Whoſe Ox or A<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> have I taken; or whom have I defrauded? Whom have I oppreſſed,</hi> &amp;c? And ought not the People to anſwer His Sacred Majeſty, as the <hi>Jews</hi> did the Prophet, <hi>Thou hast not defrauded us, nor oppreſs'd us, nor taken ought from us?</hi> Nor has he, on all occaſions, demonſtra<g ref="char:EOLhyphen"/>ted leſs Zeal and Fervour for the <hi>Protestant Religion,</hi> than he has Cha<g ref="char:EOLhyphen"/>rity and Love for His Subjects<g ref="char:punc">▪</g> With what <hi>invincible Fortitude</hi> and <hi>Piety</hi> has he reſcued her from <hi>Foreign</hi> and <hi>Domeſtick Oppoſers?</hi> And the Pre<g ref="char:EOLhyphen"/>ſervation of the <hi>Proteſtant Church</hi> in its merited Luſtre, (which was ſo fatal to his Royal Father) has in a great meaſure contributed to all thoſe <hi>Disturbances</hi> and <hi>Inquietudes</hi> he has received ſince his happy<g ref="char:punc">▪</g> 
+               <hi>Reſtaura<g ref="char:EOLhyphen"/>tion,</hi> and has proved <hi>the ſharpeſt Thorn in His Majeſties Crown;</hi> And,
+<pb n="2" facs="tcp:101377:2"/> would he let the <hi>Protestant Church</hi> ſtoop to the <hi>Non-Conformists</hi> bent, he might not only avoid thoſe <hi>unſeaſonable Clamours</hi> which ſo frequent<g ref="char:EOLhyphen"/>ly diſturb him, but have <hi>Money, Applauſe,</hi> and indeed what not? Thus you may ſee, that never any Prince could more juſtly apply to himſelf this ſaying of the Prophet <hi>David; The zeal of thy houſe hath eaten me up, O Lord.</hi>
+            </p>
+            <p>This <hi>Libel</hi> is in it ſelf ſo infamous, that all Parties diſown it; The <hi>Papiſts</hi> ſay, This Brat was engendred by the <hi>Presbyterians;</hi> theſe lay it to the <hi>Papiſts</hi> door. In fine, to ſatisfie your deſires, I ſhall, in few words, tell you the Harlot which is Mother to this <hi>Helliſh Monster<g ref="char:punc">▪</g>
+               </hi> The <hi>Libeller</hi> begins with the thanks for <hi>the Character of a Popiſh Succeſ<g ref="char:EOLhyphen"/>ſor;</hi> which he purſues with <hi>a Diſtrust of the preſent Poſſeſſor;</hi> preſently after villifying the <hi>King,</hi> for endeavouring to introduce <hi>Popery;</hi> per<g ref="char:EOLhyphen"/>ſwading the People to <hi>Rebel,</hi> rather than <hi>ſuffer</hi> it: From thence he goes back to King <hi>James,</hi> bringing it lineally to our King, falſly to cre<g ref="char:EOLhyphen"/>ate a belief in the People, that he is <hi>Popiſhly affected,</hi> and for the moſt part imployed none but ſuch in Places of Honour and Truſt; and then he upbraids him with Correſpondence with <hi>Rome,</hi> blaming His Ma<g ref="char:EOLhyphen"/>jeſty for putting <hi>Sh.</hi> and <hi>E. &amp;c.</hi> (thoſe <hi>truly Protestant Lords</hi>) out of his <hi>Council;</hi> then rails at his <hi>Prince</hi> for diſcountenancing the Diſcove<g ref="char:EOLhyphen"/>rers of the <hi>PLOT:</hi> From thence his <hi>burning zeal</hi> carries him to prefer a <hi>Mahometan</hi> Succeſſor before a <hi>Popiſh,</hi> aſperſing. His Majeſty for not tolerating <hi>Non-Conformists;</hi> from whence he falls to railing againſt <hi>Church Papiſts, Betraying Biſhops, Tantivy Abhorrers;</hi> and <hi>Popiſh Scri<g ref="char:EOLhyphen"/>blers,</hi> becauſe they endeavour to confirm the <hi>Duke</hi>'s Title: Then after a world of <hi>Damnable</hi> and <hi>Abominable</hi> lying Invectives againſt His Sacred Majeſty and his Government, (which are unfit to be named, much leſs to be written by any <hi>Christian</hi>) he ends his <hi>Libel</hi> with this Diabolical Expreſſion to all the <hi>Engliſh,</hi> to <hi>Rebel</hi> againſt his <hi>Sovereign.</hi>
+            </p>
+            <p>Thus, Sir, by this Epitome of the whole, you may eaſily conjecture to which of the two Parties that <hi>Infernal Product</hi> belongs: For, Can there be any thing in Nature more abſurd and extravagant, more con<g ref="char:EOLhyphen"/>trary to ſence and reaſon, than to imagine that <hi>Papiſts</hi> (ſo zealous in promoting their <hi>Religion,</hi> ſo eager in gaining of <hi>Proſelytes,</hi> and ſo fer<g ref="char:EOLhyphen"/>vent in enlarging the Pale of the <hi>Church,</hi> even to the loſs of Lives and Fortunes) ſhould ſo highly reſent His Majeſties entertaining Popiſh Servants, ſo ſtrenuouſly oppoſe a <hi>Popiſh Succeſsor,</hi> and ſo villifie all that favours them, as this <hi>unparallell'd</hi> Pamphlet does?</p>
+            <p>Thus I have given you an unpoliſh'd Deſcription of this <hi>Infamous Libel,</hi> which, if it does not anſwer your expectation, I hope you will be ſo kind, as to impute it to my want of time; for, had I more leiſure, you ſhould have receiv'd it in a more compact method, and fewer words.</p>
+            <closer>
+               <salute>Sir,</salute>
+               <signed>I am, Your Servant to command, A. C.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London:</hi> Printed by. <hi>N. T.</hi> next the <hi>Croſs-Keys</hi> in <hi>Fetter-lane.</hi> 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
